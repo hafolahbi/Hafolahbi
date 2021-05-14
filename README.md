@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hafolahbi
-- 👀 I’m interested in Phthon programming language
+- 👀 I’m interested in Python programming language
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me ... l.afolabi@stu.ucc.edu.gh
 

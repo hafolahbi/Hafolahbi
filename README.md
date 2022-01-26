@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafolahbi
 - 👀 I’m interested in Python programming language
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python and MATLAB
 - 📫 How to reach me ... afolabilat@gmail.com
 
 <!---
